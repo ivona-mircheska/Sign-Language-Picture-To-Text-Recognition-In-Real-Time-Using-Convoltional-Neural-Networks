@@ -28,8 +28,6 @@ Test Set: Initially 58 images, equally distributed across classes.
 
 Data Augmentation is applied to training images to enhance model generalization and avoid overfitting. The augmentation parameters are:
 
-Technique	Value
-
 Rotation Range	10
 
 Width Shift Range	0.03
